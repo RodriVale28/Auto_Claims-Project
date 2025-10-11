@@ -26,7 +26,7 @@ Created cleaned datasets, pivot tables, and visualizations to reveal insights ab
 
 ## Visuals
 
-(<img width="563" height="188" alt="image" src="https://github.com/user-attachments/assets/c42115c9-e468-47f4-8186-6d753b2ae6ec" />
+<img width="563" height="188" alt="image" src="https://github.com/user-attachments/assets/c42115c9-e468-47f4-8186-6d753b2ae6ec" />
 
 *This PivotTable summarizes fraud claims by incident type. It shows both the number of fraudulent claims and the total claim amount for each type*
 
