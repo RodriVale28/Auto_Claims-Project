@@ -27,6 +27,7 @@ Created cleaned datasets, pivot tables, and visualizations to reveal insights ab
 ## Visuals
 
 <img width="426" height="171" alt="image" src="https://github.com/user-attachments/assets/9e66bf21-a1f6-4db4-b0fc-3a0f114e1bd4" />
+
 *This SQL query calculates the number of claims and average total claim amount for each age group, highlighting trends across different customer age ranges.*
 
 
