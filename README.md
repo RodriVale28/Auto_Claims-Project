@@ -51,9 +51,14 @@ This analysis of auto insurance claims data reveals several key insights:
 
   * Fraudulent Claims: Single Vehicle Collision claims account for the highest number and total value of fraudulent claims, highlighting the need for targeted fraud prevention measures in this category.
  
-  * About one-third of all fraud claims occur in North Carolina, indicating that newer policyholders in this state may require monitoring to reduce fraudulent claims.
+  * State Incident Claims and Fraud: About one-third of all fraud claims occur in North Carolina, indicating that newer policyholders in this state may require monitoring to reduce fraudulent claims.
 
 These findings provide actionable insights for insurance providers to refine their risk management strategies and enhance fraud detection systems.
+
+## Things to Consider / Limitations
+ * Trends observed at the state level might not reflect the full picture, since not every state was represented.
+ * Some records contained missing, inconsistent, or incorrect values. For example, three columns with excessive missing data were removed, which may influence aggregated results.
+ * Findings reflect only the period included in the dataset; patterns could differ in other periods.
 
 
 **Note:** The PivotTables and charts above are based on SQL queries executed in PostgreSQL
