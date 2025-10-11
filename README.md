@@ -24,6 +24,13 @@ Created cleaned datasets, pivot tables, and visualizations to reveal insights ab
  * Filtered data for fraud cases using Boolean conditions and aggregated counts, sums, and averages.
  * Sorted outputs using ORDER BY to highlight key findings, such as highest total claims
 
+
+<img width="563" height="188" alt="image" src="https://github.com/user-attachments/assets/c42115c9-e468-47f4-8186-6d753b2ae6ec" />
+
+*This PivotTable summarizes fraud claims by incident type. It shows both the number of fraudulent claims and the total claim amount for each type*
+
+
+
 <img width="630" height="501" alt="Screenshot 2025-10-11 164430" src="https://github.com/user-attachments/assets/2c8d6fe9-2525-416d-b1fb-fb88f84f52ea" />
 
 *This pie chart shows the distribution of fraudulent claims by state. New York and South Carolina account for the highest proportion of fraud cases, together making up nearly 53% of total frauds.*
