@@ -42,6 +42,14 @@ Created cleaned datasets, pivot tables, and visualizations to reveal insights ab
 *This pie chart shows the distribution of fraudulent claims by state. New York and South Carolina account for the highest proportion of fraud cases, together making up nearly 53% of total frauds.*
 
 
+
+## Conclusion
+
+Customers aged 36–50 tend to file higher-value claims on average. Fraudulent claims are most frequent in Vehicle Theft incidents and among customers with 0–5 years of tenure. These findings highlight areas where insurance providers can focus fraud prevention and risk management efforts. 
+
+
+
 **Note:** The PivotTables and charts above are based on SQL queries executed in PostgreSQL
+
 
 
