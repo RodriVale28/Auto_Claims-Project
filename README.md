@@ -55,13 +55,13 @@ This analysis of auto insurance claims data reveals several key insights:
 
 These findings provide actionable insights for insurance providers to refine their risk management strategies and enhance fraud detection systems.
 
-## Things to Consider / Limitations
+## Things to Consider 
  * Trends observed at the state level might not reflect the full picture, since not every state was represented.
  * Some records contained missing, inconsistent, or incorrect values. For example, three columns with excessive missing data were removed, which may influence aggregated results.
  * Findings reflect only the period included in the dataset; patterns could differ in other periods.
 
 
-**Note:** The PivotTables and charts above are based on SQL queries executed in PostgreSQL
+**Note:** The Pivot Tables and charts above are based on SQL queries executed in PostgreSQL
 
 
 
