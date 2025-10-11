@@ -24,4 +24,5 @@ Created cleaned datasets, pivot tables, and visualizations to reveal insights ab
  * Filtered data for fraud cases using Boolean conditions and aggregated counts, sums, and averages.
  * Sorted outputs using ORDER BY to highlight key findings, such as highest total claims
 
-  
+  <img width="657" height="497" alt="image" src="https://github.com/user-attachments/assets/32632997-4be0-4c8a-8f94-e8877b549edc" />
+
