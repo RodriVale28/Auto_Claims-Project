@@ -45,7 +45,7 @@ Created cleaned datasets, pivot tables, and visualizations to reveal insights ab
 
 ## Conclusion
 
-Customers aged 51-65 tend to file higher-value claims on average. Fraudulent claims are most frequent in Vehicle Theft incidents and among customers with 0–5 years of tenure. These findings highlight areas where insurance providers can focus fraud prevention and risk management efforts. 
+Customers aged 51-65 tend to file higher-value claims on average. Fraudulent claims are most frequent in Single Vehicle Collision and among customers that reisde in New York. These findings highlight areas where insurance providers can focus fraud prevention and risk management efforts. 
 
 
 
