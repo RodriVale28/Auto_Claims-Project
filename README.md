@@ -3,7 +3,7 @@ This project analyzes an auto insurance claims dataset to explore claim trends, 
 Created cleaned datasets, pivot tables, and visualizations to reveal insights about claims and customer patterns.
 
 ## Excel Work
-**Skills Used:**
+**🛠  Skills Used:**
   * TRIM(), IF(), PROPER(), Find & Replace (Ctrl + H)
   * removed duplicates, verified numeric totals, formatted dates and time
 
@@ -15,7 +15,7 @@ Created cleaned datasets, pivot tables, and visualizations to reveal insights ab
   * Fromatted dates nad incident hours
 
 ## SQL Work (PostgreSQL)
-**Skils Used:**
+**🛠  Skils Used:**
  * Agregate functions(AVG(), SUM()), GROUP BY
  * Conditional 'and Filtering logic (e.g. 'Case', 'Where')
 
@@ -24,7 +24,7 @@ Created cleaned datasets, pivot tables, and visualizations to reveal insights ab
  * Filtered data for fraud cases using Boolean conditions and aggregated counts, sums, and averages.
  * Sorted outputs using ORDER BY to highlight key findings, such as highest total claims
 
-## Visuals
+## 📊 Visuals
 
 <img width="426" height="171" alt="image" src="https://github.com/user-attachments/assets/9e66bf21-a1f6-4db4-b0fc-3a0f114e1bd4" />
 
@@ -43,10 +43,17 @@ Created cleaned datasets, pivot tables, and visualizations to reveal insights ab
 
 
 
-## Conclusion
+## 📝 Conclusion
 
-Customers aged 51-65 tend to file higher-value claims on average. Fraudulent claims are most frequent in Single Vehicle Collision and among customers that reisde in New York. These findings highlight areas where insurance providers can focus fraud prevention and risk management efforts. 
+This analysis of auto insurance claims data reveals several key insights:
 
+  * Age Group Analysis: Customers aged 36–50 have the highest number of claims, indicating a potential focus area for risk assessment and policy adjustments.
+
+  * Fraudulent Claims: Single Vehicle Collision claims account for the highest number and total value of fraudulent claims, highlighting the need for targeted fraud prevention measures in this category.
+ 
+  * About one-third of all fraud claims occur in North Carolina, indicating that newer policyholders in this state may require monitoring to reduce fraudulent claims.
+
+These findings provide actionable insights for insurance providers to refine their risk management strategies and enhance fraud detection systems.
 
 
 **Note:** The PivotTables and charts above are based on SQL queries executed in PostgreSQL
