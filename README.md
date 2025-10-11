@@ -1,5 +1,5 @@
 # Auto Claims Project
-Analyzed and validated an auto insurance claims dataset to ensure data accuracy and consistency.
+This project analyzes an auto insurance claims dataset to explore claim trends, fraud patterns, and customer behavior using SQL and Excel.
 Created cleaned datasets, pivot tables, and visualizations to reveal insights about claims and customer patterns.
 
 ## Excel Work
