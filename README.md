@@ -62,6 +62,7 @@ These findings provide actionable insights for insurance providers to refine the
 
 
 **Note:** The Pivot Tables and charts above are based on SQL queries executed in PostgreSQL
+**Data Source:** This project uses data made available by [Auto Insurance Claims Data on Kaggle](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data).
 
 
 
