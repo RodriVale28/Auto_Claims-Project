@@ -15,7 +15,7 @@ Created cleaned datasets, pivot tables, and visualizations to reveal insights ab
   * Fromatted dates nad incident hours
 
 ## SQL Work (PostgreSQL)
-**🛠  Skils Used:**
+**🛠  Skills Used:**
  * Agregate functions(AVG(), SUM()), GROUP BY
  * Conditional 'and Filtering logic (e.g. 'Case', 'Where')
 
